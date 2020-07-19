@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:key="pref_widget"
+        android:title="위젯 설정"
+        android:summary="바탕화면에 위젯이 표시됩니다."
+        android:defaultValue="true"/>
+
+</PreferenceScreen>

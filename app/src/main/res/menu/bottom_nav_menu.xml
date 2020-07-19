@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_haru"
+        android:icon="@drawable/haru_bottom_navigation"
+        android:title="Haru" />
+
+    <item
+        android:id="@+id/navigation_community"
+        android:icon="@drawable/ic_group_black_24dp"
+        android:title="Community" />
+
+    <item
+        android:id="@+id/navigation_contents"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Contents" />
+
+    <item
+        android:id="@+id/navigation_point"
+        android:icon="@drawable/ic_control_point_duplicate_black_24dp"
+        android:title="Point" />
+
+</menu>
